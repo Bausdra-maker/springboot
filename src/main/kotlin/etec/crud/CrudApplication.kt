@@ -1,11 +1,11 @@
-package edu.etec.api
+package etec.crud
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ApiApplication
+class CrudApplication
 
 fun main(args: Array<String>) {
-    runApplication<ApiApplication>(*args)
+	runApplication<CrudApplication>(*args)
 }

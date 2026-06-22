@@ -1,10 +1,10 @@
-package edu.etec.api.service
+package etec.crud.service
 
-import edu.etec.api.model.Instrumento
-import org.junit.jupiter.api.Test
-import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.Assertions.assertTrue
-import org.junit.jupiter.api.Assertions.assertNull
+import etec.crud.model.Instrumento
+import kotlin.test.Test
+import kotlin.test.assertEquals
+import kotlin.test.assertTrue
+import kotlin.test.assertNull
 
 class InstrumentoServicioTests {
 

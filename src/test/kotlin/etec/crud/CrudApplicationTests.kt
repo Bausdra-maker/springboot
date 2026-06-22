@@ -1,10 +1,10 @@
-package edu.etec.api
+package etec.crud
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class ApiApplicationTests {
+class CrudApplicationTests {
 
 	@Test
 	fun contextLoads() {
